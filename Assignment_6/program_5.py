@@ -1,4 +1,4 @@
-correct_username = "Avnish0302"
+correct_username = "Avnish0302$"
 correct_password = "Avnish@0203"
 
 max_attempts = 5
